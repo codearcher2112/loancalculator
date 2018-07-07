@@ -42,7 +42,7 @@ function calculateResults(e) {
     // Hide loader
     document.getElementById('loading').style.display = 'none';
   } else {
-    showError('Plese check your numbers');
+    showError('Please check your numbers');
   }
 }
 
