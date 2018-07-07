@@ -1,0 +1,11 @@
+#loading {
+  padding: 25px 0;
+}
+
+#loading, #results {
+  display: none;
+}
+
+#loading img {
+  width: 100px;
+}
